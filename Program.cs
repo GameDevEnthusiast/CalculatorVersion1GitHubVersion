@@ -77,7 +77,12 @@ namespace GettingInput
 
             Console.WriteLine(name);
 
-            Console.WriteLine($"\nHello{name}!\n  ");
+            Console.WriteLine($"\nHello {name}!\n  ");
+
+            /*
+             * This version of WriteLine has spaces hard coded in the line so that the space between "Hello" and {name} makes it so for example output in console looks like "Hello Name" 
+             * rather than "HelloName"
+             */
 
 
 
