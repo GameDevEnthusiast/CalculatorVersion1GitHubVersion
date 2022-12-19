@@ -1,0 +1,15 @@
+C:\Users\Icy\Documents real\Documents\KUBEN IMC YEAR 2 IM\Årsoppgave\Coding stuff for åroppgave\VS projects\CalculatorVersion1\CalculatorVersion1\bin\Debug\net6.0\CalculatorVersion1.exe
+C:\Users\Icy\Documents real\Documents\KUBEN IMC YEAR 2 IM\Årsoppgave\Coding stuff for åroppgave\VS projects\CalculatorVersion1\CalculatorVersion1\bin\Debug\net6.0\CalculatorVersion1.deps.json
+C:\Users\Icy\Documents real\Documents\KUBEN IMC YEAR 2 IM\Årsoppgave\Coding stuff for åroppgave\VS projects\CalculatorVersion1\CalculatorVersion1\bin\Debug\net6.0\CalculatorVersion1.runtimeconfig.json
+C:\Users\Icy\Documents real\Documents\KUBEN IMC YEAR 2 IM\Årsoppgave\Coding stuff for åroppgave\VS projects\CalculatorVersion1\CalculatorVersion1\bin\Debug\net6.0\CalculatorVersion1.dll
+C:\Users\Icy\Documents real\Documents\KUBEN IMC YEAR 2 IM\Årsoppgave\Coding stuff for åroppgave\VS projects\CalculatorVersion1\CalculatorVersion1\bin\Debug\net6.0\CalculatorVersion1.pdb
+C:\Users\Icy\Documents real\Documents\KUBEN IMC YEAR 2 IM\Årsoppgave\Coding stuff for åroppgave\VS projects\CalculatorVersion1\CalculatorVersion1\obj\Debug\net6.0\CalculatorVersion1.csproj.AssemblyReference.cache
+C:\Users\Icy\Documents real\Documents\KUBEN IMC YEAR 2 IM\Årsoppgave\Coding stuff for åroppgave\VS projects\CalculatorVersion1\CalculatorVersion1\obj\Debug\net6.0\CalculatorVersion1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Icy\Documents real\Documents\KUBEN IMC YEAR 2 IM\Årsoppgave\Coding stuff for åroppgave\VS projects\CalculatorVersion1\CalculatorVersion1\obj\Debug\net6.0\CalculatorVersion1.AssemblyInfoInputs.cache
+C:\Users\Icy\Documents real\Documents\KUBEN IMC YEAR 2 IM\Årsoppgave\Coding stuff for åroppgave\VS projects\CalculatorVersion1\CalculatorVersion1\obj\Debug\net6.0\CalculatorVersion1.AssemblyInfo.cs
+C:\Users\Icy\Documents real\Documents\KUBEN IMC YEAR 2 IM\Årsoppgave\Coding stuff for åroppgave\VS projects\CalculatorVersion1\CalculatorVersion1\obj\Debug\net6.0\CalculatorVersion1.csproj.CoreCompileInputs.cache
+C:\Users\Icy\Documents real\Documents\KUBEN IMC YEAR 2 IM\Årsoppgave\Coding stuff for åroppgave\VS projects\CalculatorVersion1\CalculatorVersion1\obj\Debug\net6.0\CalculatorVersion1.dll
+C:\Users\Icy\Documents real\Documents\KUBEN IMC YEAR 2 IM\Årsoppgave\Coding stuff for åroppgave\VS projects\CalculatorVersion1\CalculatorVersion1\obj\Debug\net6.0\refint\CalculatorVersion1.dll
+C:\Users\Icy\Documents real\Documents\KUBEN IMC YEAR 2 IM\Årsoppgave\Coding stuff for åroppgave\VS projects\CalculatorVersion1\CalculatorVersion1\obj\Debug\net6.0\CalculatorVersion1.pdb
+C:\Users\Icy\Documents real\Documents\KUBEN IMC YEAR 2 IM\Årsoppgave\Coding stuff for åroppgave\VS projects\CalculatorVersion1\CalculatorVersion1\obj\Debug\net6.0\CalculatorVersion1.genruntimeconfig.cache
+C:\Users\Icy\Documents real\Documents\KUBEN IMC YEAR 2 IM\Årsoppgave\Coding stuff for åroppgave\VS projects\CalculatorVersion1\CalculatorVersion1\obj\Debug\net6.0\ref\CalculatorVersion1.dll
